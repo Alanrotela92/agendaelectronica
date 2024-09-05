@@ -1,0 +1,7 @@
+DNI: 43234578
+Nombre: alan joaquin
+Apellido: galeano
+Dirección: san ignacio482
+Teléfono: 3764951919
+Fecha de nacimiento: 02/05/2001
+--------------------
